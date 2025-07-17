@@ -1,11 +1,11 @@
-# react-native-boring-avatars
+# react-native-boring-avatars-custom
 
 React Native implementation of [boring avatars](https://boringavatars.com/)
 
 ## Installation
 
 ```sh
-yarn add boring-avatars
+yarn add @liquidspirit/react-native-boring-avatars
 ```
 
 ## Usage
