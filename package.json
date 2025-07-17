@@ -74,7 +74,8 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "react-native-svg": "^14.1.0 || ^14.2.0"
   },
   "jest": {
     "preset": "react-native",
@@ -142,8 +143,5 @@
       "module",
       "typescript"
     ]
-  },
-  "dependencies": {
-    "react-native-svg": "^14.2.0"
   }
 }

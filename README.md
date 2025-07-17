@@ -1,4 +1,4 @@
-# react-native-boring-avatars-custom
+# @liquidspirit/react-native-boring-avatars
 
 React Native implementation of [boring avatars](https://boringavatars.com/)
 
